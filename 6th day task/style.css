@@ -1,0 +1,158 @@
+header {
+    background-color: darkblue;
+    background-size: cover;
+    height:30px;
+}
+
+.Bio{
+    white-space: pre;
+    color:lightcyan;
+    padding-right: 650px;
+    padding-left:150px
+}
+
+.content{
+    padding-right:100px;
+    color:lightcyan;
+}
+
+.button-one{
+    margin:30px;
+    background-color: lightcyan;
+    border-color: rgb(76, 135, 163);
+    color: rgb(49, 116, 143);
+}
+
+.intro{
+    height:200px;
+    width:400px;
+    background-color: lightcyan;
+    margin-top:5px ;
+    margin-left:50px;
+    padding-top: 50px ;
+    text-align:center;
+    float:left;
+}
+
+.image-one{
+    float:right;
+    margin-right: 50px;
+    margin-top: 3px;
+}
+
+.line{
+    margin:100px;
+}
+
+.text{
+    
+    height:300px;
+    width: 1350px;
+    background-image: url(img/second.jpg);
+    margin:265px 50px 5px 50px;
+    padding:20px;
+}
+
+.para{
+    text-align: center;
+}
+
+.hobbies{
+    font-size:large;
+    font-style: italic;
+}
+.education{
+    
+    margin-left:50px;
+    height:300px;
+    width:600px;
+    text-align:center;
+    background-color: lightcyan;
+    padding:60px;
+    float:left;
+}
+.experience{
+    margin-right:50px;
+    height:300px;
+    width:650px;
+    float:right;
+    margin-top:1px;
+    text-align:center;
+    background-color: lightcyan;
+    padding-bottom:60px;
+    padding-left:20px;
+    padding-top:60px;
+}
+
+.bar{
+    height:100px;
+    margin:435px 50px 0px;
+    background-color: lightcyan;
+    text-align: center;
+    width:1410px;
+    padding-top:15px ;
+}
+
+.box{
+    background-color: lightcyan;
+    margin:2px;
+    height:300px;
+    width:330px;
+    text-align: center;
+    padding:10px;
+    float:left;
+    margin-left:50px;
+}
+
+.box-one{
+    background-color: lightcyan;
+    margin:2px;
+    height:300px;
+    width:330px;
+    text-align: center;
+    padding:10px;
+    float:left;
+    
+}
+
+.bar-one{
+    height:100px;
+    margin:330px 50px 0px;
+    background-color: lightcyan;
+    text-align: center;
+    width:1410px;
+    padding-top:15px ;
+}
+
+.box-two {
+	background-color: lightcyan;
+	text-align: center;
+	float: left;
+	margin: 5px;
+	width: 321px;
+	padding: 20px;
+}
+.purple-box{
+	background-color:rgb(244, 183, 252);
+	clear: both;
+	height: 500px;
+	width: 735px;
+	float: left;
+}
+.Contact-Form {
+    background-color: #abd0f5;
+	text-align: center;
+	height: 500px;
+    width: 725px;
+    margin-right: 38px;
+	float: right;
+	border: none;
+}
+.msg-button {
+    padding: 8px;
+	
+	background-color: transparent;
+	border: blue solid 1px;
+	color: blue;
+	width: 380px;
+}
